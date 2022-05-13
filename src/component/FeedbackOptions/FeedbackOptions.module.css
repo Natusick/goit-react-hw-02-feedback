@@ -1,3 +1,7 @@
+.button__set {
+  flex-direction: row-reverse;
+}
+
 button {
   align-items: center;
   padding: 2px 15px 2px 15px;
